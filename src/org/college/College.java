@@ -10,4 +10,7 @@ public class College {
  public void collegeRank() {
 	System.out.println("collegeRank");
 }
+ public void tc01() {
+	System.out.println("Dinesh");
+}
 }
